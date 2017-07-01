@@ -123,7 +123,7 @@ header h1{
 
 .textStyle{	
 
-  font: normal 15px/normal "Anton", Helvetica, sans-serif;
+  font: normal 24px/normal "Anton", Helvetica, sans-serif;
   text-align: center;
   /*text-transform: uppercase;*/
  
@@ -227,6 +227,7 @@ div.shine
   display: block;
   padding: 0;
   display:block;
+
 }
 
 #my-word li {
@@ -235,7 +236,7 @@ div.shine
   margin: 0;
   display: inline-block;
   padding: 0 10px;
-  font-size: 15px;
+  font-size: 20px;
 }
 #bandImage{
   display:none;
